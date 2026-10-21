@@ -1,0 +1,7 @@
+category,positives,rules_accuracy,rules_f1,rules_fp,rules_fn,ml_accuracy,ml_f1,ml_fp,ml_fn
+tax_amount_mismatch,267,1.0,1.0,0,0,1.0,1.0,0,0
+invoice_total_mismatch,262,1.0,1.0,0,0,1.0,1.0,0,0
+incomplete_supplier_details,257,1.0,1.0,0,0,1.0,1.0,0,0
+line_item_arithmetic,244,1.0,1.0,0,0,1.0,1.0,0,0
+tax_breakdown_mismatch,240,1.0,1.0,0,0,1.0,1.0,0,0
+document_reference_inconsistency,244,1.0,1.0,0,0,1.0,1.0,0,0
